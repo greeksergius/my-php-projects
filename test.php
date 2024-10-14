@@ -1,4 +1,4 @@
-asdsadas<?php
+<?php
 $text = "Hello\n";
 $filename = __DIR__ . '/file.txt';
 $fh = fopen($filename, 'a+');
